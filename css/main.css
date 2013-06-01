@@ -46,8 +46,7 @@ body{
   position: relative;
   padding: 40px 0;
   color: #1a1717;
-  background: #7f8c8d; /* Old browsers */
-  background-image:url('/images/debut_light_@2x.png');
+  background-image:url('./images/debut_light_@2x.png');
   background-repeat: repeat;
   text-align: center;
 }
