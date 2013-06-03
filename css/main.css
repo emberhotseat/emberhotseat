@@ -46,7 +46,7 @@ body{
   position: relative;
   padding: 40px 0;
   color: #1a1717;
-  background-image:url('http://subtlepatterns.com/patterns/debut_light.png');
+  background-image:url('/images/debut_light_@2X.png');
   background-repeat: repeat;
   text-align: center;
 }
