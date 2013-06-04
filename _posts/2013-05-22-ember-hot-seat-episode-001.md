@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Episode 001: Tom Dale"
+author: DeVaris Brown
 date:   2013-05-22
+duration: 39:06
 excerpt: In this week's episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom's fashion tips, and of course the wonderful Troll Comment of the Week.
 ---
 
