@@ -46,7 +46,7 @@ body{
   position: relative;
   padding: 40px 0;
   color: #1a1717;
-  background-image:url('http://subtlepatterns.com/patterns/debut_light.png');
+  background-image:url('/images/debut_light_@2X.png');
   background-repeat: repeat;
   text-align: center;
 }
@@ -76,6 +76,13 @@ body{
 .jumbotron a:hover {
   color: #fff;
   text-shadow: 0 0 10px rgba(255,255,255,.25);
+}
+
+.mc-button .button{
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  color: #1a1717;
 }
 
 .social-bar{
@@ -124,11 +131,6 @@ body{
 }
 
 .recent-posts ul li{
-  height: 300px;
-  width: 350px;
-  background-color: #ecf0f1;
-  border: 1px solid #ddd;
-  border-radius: 4px;
   margin-bottom: 15px;
 }
 

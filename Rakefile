@@ -49,7 +49,7 @@ task :deploy => [:check_git] do
 
   unless git_clean?
     system "git add . && git commit -m \"#{message}\""
-    system "git push origin \"#{deploy_branch}\" && git push pages \"#{deploy_branch}\""
+    system "git push origin \"#{deploy_branch}\""
     puts "Pushed to origin and pages with commit message: #{message}"
   else
     puts "No changes to deploy - canceled"

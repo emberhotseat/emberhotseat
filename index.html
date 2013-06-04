@@ -32,6 +32,18 @@
 <!-- favicon -->
 <link rel="shortcut icon" href="/favicon.ico">
 
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41455300-1', 'emberhotseat.com');
+  ga('send', 'pageview');
+
+</script>
+
 <!-- IE Shim -->
 <!--[if lt IE 9]>
       <script src="assets/js/html5shiv.js"></script>
@@ -48,8 +60,8 @@
       </a>
       <div class="nav-collapse collapse">
         <ul class="nav pull-right">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="#">Videos</a></li>
+          <li><a href="/index.html">Home</a></li>
+          <li><a href="#">Episodes</a></li>
           <li><a href="#">About</a></li>
         </ul>
       </div>
@@ -64,40 +76,46 @@
           <div class="span6">
             <h1 class="header-text tk-myriad-pro">Welcome to the Ember Hot Seat.</h1>
             <p class="header-desc tk-myriad-pro">The Ember Hot Seat will be a web series dedicated in bringing you the latest and greatest news from the Ember.js community. Each week we'll feature a new person bringing their unique perspective in the Hot Seat. Sign up below for updates!</p>
-            <form class="form-inline header-form">
-              <input type="text" class="input-xlarge" placeholder="Please Enter Your Email Address">
-              <button type="submit" class="btn">Sign Up</button>
+            <!-- Begin MailChimp Signup Form -->
+            <div id="mc_embed_signup">
+            <form action="http://zendesk.us6.list-manage.com/subscribe/post?u=bb6d9e3a37c7e487b40e4e5ef&amp;id=558821516d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+              <input type="email" value="" name="EMAIL" class="required email input-xlarge" id="mce-EMAIL" placeholder="Enter Your Email Address">
+            </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>  
+              <div class="clear mc-button">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+              </div>
             </form>
+            </div>
+
+            <!--End mc_embed_signup-->
           </div>
         </div>
       </div>
       <div class="social-bar">
         <ul class="social-icons">
-          <li><a class="ss-twitter" href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" data-title="@emberhotseat"></a></li>
-          <li><a class="ss-octocat" href="#" target="_blank" data-toggle="tooltip" data-placement="bottom" data-title="emberhotseat"></a></li>
+          <li><a class="ss-twitter" href="http://twitter.com/emberhotseat" target="_blank" data-toggle="tooltip" data-placement="bottom" data-title="@emberhotseat"></a></li>
+          <li><a class="ss-octocat" href="http://github.com/emberhotseat" target="_blank" data-toggle="tooltip" data-placement="bottom" data-title="emberhotseat"></a></li>
         </ul>
       </div>
-      <div class="container">
+      <div class="container-fluid">
         <div class="content">
           <div class="recent-posts">
-  <p class="tk-myriad-pro">Latest Episodes</p>
-  <!-- <div class="row-fluid">
+  <p class="tk-myriad-pro">Latest Episode</p>
+  <div class="row-fluid">
     <ul class="posts">
       
-        <div class="span4">
-          <li><span>31 May 2013</span> &raquo; <a href="/jekyll/update/2013/05/31/testpost2.html">Welcome to Jekyll!</a></li>
-        </div>
-      
-        <div class="span4">
-          <li><span>30 May 2013</span> &raquo; <a href="/jekyll/update/2013/05/30/testpost1.html">Welcome to Jekyll!</a></li>
-        </div>
-      
-        <div class="span4">
-          <li><span>29 May 2013</span> &raquo; <a href="/jekyll/update/2013/05/29/welcome-to-jekyll.html">Welcome to Jekyll!</a></li>
+        <div class="span12">
+          <li><a href="/2013/05/22/ember-hot-seat-episode-001.html">Episode 001: Tom Dale</a> &raquo; <span>22 May 2013</span></li>
+          <li>In this week's episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom's fashion tips, and of course the wonderful Troll Comment of the Week.</li>
         </div>
       
     </ul>
-  </div> -->
+  </div>
   
 </div>
         </div>
