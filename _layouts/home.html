@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      {% include head.html %}
+    </head>
+    <body>
+      {% include header.html %}
+      <div class="jumbotron">
+        <div class="row-fluid">
+          <div class="span5">
+            <img class="header-image" src="/images/ember_splash.png">
+          </div>
+          <div class="span6">
+            <h1 class="header-text tk-myriad-pro">Welcome to the Ember Hot Seat.</h1>
+            <p class="header-desc tk-myriad-pro">The Ember Hot Seat will be a web series dedicated in bringing you the latest and greatest news from the Ember.js community. Each week we'll feature a new person bringing their unique perspective in the Hot Seat. Sign up below for updates!</p>
+            <!-- Begin MailChimp Signup Form -->
+            <div id="mc_embed_signup">
+            <form action="http://zendesk.us6.list-manage.com/subscribe/post?u=bb6d9e3a37c7e487b40e4e5ef&amp;id=558821516d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+            <div class="mc-field-group">
+              <input type="email" value="" name="EMAIL" class="required email input-xlarge" id="mce-EMAIL" placeholder="Enter Your Email Address">
+            </div>
+              <div id="mce-responses" class="clear">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+              </div>  
+              <div class="clear mc-button">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+              </div>
+            </form>
+            </div>
+
+            <!--End mc_embed_signup-->
+          </div>
+        </div>
+      </div>
+      <div class="social-bar">
+        <ul class="social-icons">
+          <li><a class="ss-twitter" href="http://twitter.com/emberhotseat" target="_blank" data-toggle="tooltip" data-placement="bottom" data-title="@emberhotseat"></a></li>
+          <li><a class="ss-octocat" href="http://github.com/emberhotseat" target="_blank" data-toggle="tooltip" data-placement="bottom" data-title="emberhotseat"></a></li>
+        </ul>
+      </div>
+      <div class="container-fluid">
+        <div class="content">
+          {{ content }}
+        </div>
+      </div>
+    </body>
+</html>
