@@ -194,6 +194,8 @@ a.post_title:active {text-decoration:none;}
 .copyright {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
+  padding: 5px;
+  color: #888;
 }
 
 
