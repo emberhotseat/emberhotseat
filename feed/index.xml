@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ember Hot Seat</title>
+    <link>http://emberhotseat.com</link>
+    <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ember Hot Seat</description>
+    <language>en-us</language>
+    <pubDate>Mon, 10 Jun 2013 05:43:48 -0700</pubDate>
+    <lastBuildDate>Mon, 10 Jun 2013 05:43:48 -0700</lastBuildDate>
+
+    
+    <item>
+      <title>Ember Hot Seat Episode 001: Tom Dale</title>
+      <link>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html?utm_source=rss</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001</guid>
+      <description>&lt;p&gt;Welcome to the Ember Hot Seat, your bi-weekly web series dedicated to all things Ember.js. In this week&amp;#8217;s episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom&amp;#8217;s fashion tips, and of course the wonderful Troll Comment of the Week.&lt;/p&gt;
+
+&lt;p&gt;Sign up on the home page for updates and follow us on Twitter at @emberhotseat.&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F95297517' width='100%' /&gt;</description>
+    </item>
+    
+
+  </channel> 
+</rss>

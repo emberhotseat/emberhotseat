@@ -117,20 +117,94 @@ body{
   color: #ccc;
   text-decoration: none;
 }
-.recent-posts p{
+
+.recent-posts{
+  text-align: center;
+  margin-top: 20px;
+}
+
+.recent-posts h2{
   text-align: center;
   font-size: 24px;
   font-style: italic;
-  font-weight: 600;
-  padding: 25px 0 15px 0;
+  font-weight: 300;
 }
 
-.recent-posts ul{
-  list-style-type: none;
+a.post_title:link {text-decoration:none; color: #333;}
+a.post_title:visited {text-decoration:none; color: #333;}
+a.post_title:hover {text-decoration:none; color: #000;}
+a.post_title:active {text-decoration:none;}
+
+.sponsors{
+  padding: 0 30px 0 40px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  border-left: 1px solid #ddd;
+  border: line-height: 2em;
+}
+
+.sponsors h2{
+  text-align: center;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 300;
+}
+
+.sponsor_logo{
+  margin: 0px 0 10px 0;
   text-align: center;
 }
 
-.recent-posts ul li{
-  margin-bottom: 15px;
+.sponsor_blurb{
+  font-style: italic;
+  font-size: 12px;
+  margin-bottom: 20px;
 }
+
+.footer {
+  padding: 10px;
+  background-color: #f5f5f5;
+  border-top: 1px solid #ddd;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer_links {
+  font-size: 12px;
+  float: left;
+  padding: 5px;
+  color: #1a1717;
+}
+
+.footer_item {
+  margin-right: 20px;
+}
+
+.footer_item a{
+  -webkit-transition: all .5s ease-in-out;
+     -moz-transition: all .5s ease-in-out;
+          transition: all .5s ease-in-out;
+}
+
+.footer_item a:link {text-decoration:none; color: #1a1717;}
+.footer_item a:visited {text-decoration:none; color: #1a1717;}
+.footer_item a:hover {text-decoration:none; color: #888;}
+.footer_item a:active {text-decoration:none;}
+
+.copyright {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
+  padding: 5px;
+  color: #888;
+}
+
+
+
+/* Episode List */
+
+.page_title{
+
+}
+
+
 
