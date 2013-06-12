@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ember Hot Seat Episode 001: Tom Dale
+title:  "Ember Hot Seat Episode 001: Tom Dale"
 author: DeVaris Brown
 comments: true
 date:   2013-05-22
