@@ -6,20 +6,36 @@
     <atom:link href="http://emberhotseat.com/feed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ember Hot Seat</description>
     <language>en-us</language>
-    <pubDate>Mon, 10 Jun 2013 06:00:38 -0700</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2013 06:00:38 -0700</lastBuildDate>
+    <pubDate>Wed, 12 Jun 2013 15:34:35 -0700</pubDate>
+    <lastBuildDate>Wed, 12 Jun 2013 15:34:35 -0700</lastBuildDate>
 
     
     <item>
-      <title>Ember Hot Seat Episode 001: Tom Dale</title>
+      <title>Ember Hot Seat Episode 002</title>
+      <link>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002.html?utm_source=rss</link>
+      <pubDate>Wed, 12 Jun 2013 00:00:00 -0700</pubDate>
+      <author></author>
+      <guid>http://emberhotseat.com/2013/06/12/ember-hot-seat-episode-002</guid>
+      <description>&lt;p&gt;Hey Ember Hot Seat listeners! We&amp;#8217;re back this week with &lt;a href='http://twitter.com/kaspertidemann'&gt;Kasper Tidemann&lt;/a&gt;, CTO and cofounder of Meemo, in the Hot Seat. He&amp;#8217;s going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he&amp;#8217;s overcome some of the difficulties. We also touch on why it&amp;#8217;s important to give back to the community and why Ember was the framework of choice for his company. Kasper made mention of his &lt;a href='http://kaspertidemann.com'&gt;blog&lt;/a&gt; and to a video he would record of his own JS framework &lt;a href='http://vimeo.com/68185861'&gt;meeho.js&lt;/a&gt;. I hope you enjoy!&lt;/p&gt;
+
+&lt;p&gt;This week we&amp;#8217;ve recorded it in stereo AAAAAAND even have some theme music provided by a good friend of mine &lt;a href='http://futureperfekt.net'&gt;Mitchell Wilcox&lt;/a&gt; haha. The production quality keeps going up with each week. I&amp;#8217;m still waiting on iTunes podcast approval, but if you&amp;#8217;d like to subscribe to the RSS feed, you can do it here: &lt;a href='http://emberhotseat.com/feed/index.xml'&gt;http://emberhotseat.com/feed/index.xml&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;#8217;d like to be in the Hot Seat or have feedback on the show, please reach out to us on Twitter &lt;a href='http://twitter.com/emberhotseat'&gt;@emberhotseat&lt;/a&gt;. We look forward to hearing from you.&lt;/p&gt;
+
+&lt;p&gt;-DeVaris&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F96627840' width='100%'&gt; &lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ember Hot Seat Episode 001</title>
       <link>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001.html?utm_source=rss</link>
       <pubDate>Wed, 22 May 2013 00:00:00 -0700</pubDate>
       <author></author>
       <guid>http://emberhotseat.com/2013/05/22/ember-hot-seat-episode-001</guid>
-      <description>&lt;p&gt;Welcome to the Ember Hot Seat, your bi-weekly web series dedicated to all things Ember.js. In this week&amp;#8217;s episode, we speak with Tom Dale, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom&amp;#8217;s fashion tips, and of course the wonderful Troll Comment of the Week.&lt;/p&gt;
+      <description>&lt;p&gt;Welcome to the Ember Hot Seat, your bi-weekly web series dedicated to all things Ember.js. In this week&amp;#8217;s episode, we speak with &lt;a href='http://twitter.com/tomdale'&gt;Tom Dale&lt;/a&gt;, Ember.js core team member and Tilde.io co-founder, about the best way to get started with Ember, upcoming changes in Ember Data, Polymer, Tom&amp;#8217;s fashion tips, and of course the wonderful Troll Comment of the Week.&lt;/p&gt;
 
-&lt;p&gt;Sign up on the home page for updates and follow us on Twitter at @emberhotseat.&lt;/p&gt;
-&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F95297517' width='100%' /&gt;</description>
+&lt;p&gt;Sign up on the home page for updates and follow us on Twitter at &lt;a href='http://twitter.com/emberhotseat'&gt;@emberhotseat&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe frameborder='no' height='166' scrolling='no' src='https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F95297517' width='100%'&gt; &lt;/iframe&gt;</description>
     </item>
     
 
