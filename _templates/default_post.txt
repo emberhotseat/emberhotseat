@@ -1,0 +1,50 @@
+---
+layout: post
+title:  {{title}}
+author: {{name}}
+comments: true
+duration: 
+excerpt: 
+---
+
+Hey there {{name}},
+
+Welcome to your boiler plate blog post. In here, we'll show you how to easily create a blog post with all sort of examples for you to re-use. This post is generated exclusively using \[markdown\](http://daringfireball.net/projects/markdown/basics), you can choose to create blog posts using markdown too, or simply raw HTML.
+
+## Introduction
+
+The heading above is a `h2` and is the biggest header you should use in a blog post. Generally, `h2` headings should be used to seperate major content within your article.
+
+You can use smaller headings, such as `h3` or even `h2`, to seperate content within a section. This might be useful to break down an argument or discussion point.
+
+## Common HTML elements
+
+Markdown will suffice for *most* things you'll want to do. For example, *italics* and **bolds**
+
+1. List
+1. items
+
+* Ordered
+* or not
+
+Code blocks are pretty easy
+
+    (but annoyingly, these have to be
+    indented with 4 spaces)
+
+and of course `inline codes`
+
+If you ever need to use it...
+
+> Blockquotes are available too
+
+And if you're feeling *really* adventurous, you can even do tables
+
+| Markdown              | What's it do?          |
+| --------------------- | -----------------------|
+| `*italic*`            | Makes something italic |
+| `**bold**             | Makes something bold   |
+| `## Big heading`      | A `h2` heading       |
+| `### Smaller heading` | A `h3` heading       |
+
+And there's also links and images and stuff, so it's time to \[RTFM\](http://daringfireball.net/projects/markdown/basics)

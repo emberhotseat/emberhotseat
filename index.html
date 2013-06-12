@@ -5,13 +5,15 @@ title: Ember Hot Seat - Home
 <div class="row-fluid">
   <div class="span9">
     <div class="recent-posts">
-      {% for post in site.posts limit 3 %}
-      <div class="span12 post_info">
-        <h2><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
-        <span class="post_date"> <b>Posted on:</b> {{ post.date | date: "%A, %b %d, %Y" }}</span>
-        <p class="post_excerpt">{{post.excerpt}}</p>
-      </div>
-      {% endfor %} 
+      <div class="row-fluid">
+        <div class="span12">
+          {% for post in site.posts limit 5 %}
+          <h2><a class="post_title" href="{{ post.url }}">{{ post.title }}</a></h2>
+          <span class="post_date"> <b>Posted on:</b> {{ post.date | date: "%A, %b %d, %Y" }}</span>
+          <p class="post_excerpt">{{post.excerpt}}</p>
+          {% endfor %} 
+        </div>
+      </div>     
     </div>
   </div>
   {% include sponsors.html %}
