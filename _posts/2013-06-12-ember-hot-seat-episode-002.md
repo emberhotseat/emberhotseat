@@ -5,7 +5,7 @@ author: Ember Hot Seat
 comments: true
 date: 2013-06-12
 duration: 37:51
-excerpt: "We're back this week with [Kasper Tidemann](http://twitter.com/kaspertidemann), CTO and cofounder of Meemo, in the Hot Seat. He's going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he's overcome some of the difficulties. We also touch on why it's important to give back to the community and why Ember was the framework of choice for his company.""
+excerpt: "We're back this week with [Kasper Tidemann](http://twitter.com/kaspertidemann), CTO and cofounder of Meemo, in the Hot Seat. He's going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he's overcome some of the difficulties. We also touch on why it's important to give back to the community and why Ember was the framework of choice for his company."
 ---
 
 Hey Ember Hot Seat listeners! We're back this week with [Kasper Tidemann](http://twitter.com/kaspertidemann), CTO and cofounder of Meemo, in the Hot Seat. He's going to give his perspective on getting started with Ember, his journey in choosing Ember, and how he's overcome some of the difficulties. We also touch on why it's important to give back to the community and why Ember was the framework of choice for his company. Kasper made mention of his [blog](http://kaspertidemann.com) and to a video he would record of his own JS framework [meeho.js](http://vimeo.com/68185861). I hope you enjoy!
